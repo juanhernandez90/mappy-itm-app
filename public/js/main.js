@@ -76,4 +76,3 @@ async function postData(url = '', file) {
     });
     return response.json();
 }
-
